@@ -1,0 +1,16 @@
+Result if k=22 and t=12= 50.589460136577<br>
+Result if k=4.78 and t=1.11= 3.9700694319911
+Result if k= and t== 1
+Result if k=4 and t=6= 17.078138274818
+Result if k= and t== 1
+Result if k= and t== 1
+Result if k= and t== 1
+Result if k= and t== 1
+Result if k= and t== 1
+Result if k=4.78 and t=1.11= 3.9700694319911
+Result if k=4.78 and t=1.11= 3.9700694319911
+Result if k=4.78 and t=1.11= 3.9700694319911
+Result if k=4.78 and t=1.11= 3.9700694319911
+Result if k=4.78 and t=1.11= 3.9700694319911
+Result if k=4.78 and t=1.11= 3.9700694319911
+Result if k=4.78 and t=1.11= 3.9700694319911
